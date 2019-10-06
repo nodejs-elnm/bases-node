@@ -9,6 +9,7 @@
   "author": "Erik N",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "yargs": "^14.0.0"
   }
 }
