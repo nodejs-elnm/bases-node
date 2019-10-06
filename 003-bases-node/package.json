@@ -1,0 +1,14 @@
+{
+  "name": "003-bases-node",
+  "version": "1.0.0",
+  "description": "Es una app de línea de comando",
+  "main": "001-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik N",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  }
+}
